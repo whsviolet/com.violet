@@ -1,2 +1,2 @@
 # com.whsviolet
-mine project
+persional project
